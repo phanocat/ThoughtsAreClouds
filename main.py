@@ -9,7 +9,7 @@ from links import thoughts_about_links, mood_links, feelings_links, peace_links,
 from aiogram.enums import ParseMode
 import random
 
-bot = Bot('7562834452:AAEIIJgkLUXW1cVshDRtbQINhB_V5Au056g')
+bot = Bot('')
 
 dp = Dispatcher()
 
